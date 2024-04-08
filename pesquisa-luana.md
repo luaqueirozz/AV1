@@ -1,10 +1,10 @@
-# Pesquisa Git
+# Pesquisa-Git
 
-## **Introdução**
+### **Introdução**
 
 O Git é um sistema de controle de versão distribuído amplamente utilizado para o desenvolvimento de software. Ele permite que os desenvolvedores controlem as alterações em seu código, colaborem com outros e revertam para versões anteriores conforme necessário.
 
-## **Conceitos Básicos**
+### **Conceitos Básicos**
 
 - _Repositório:_  Local onde o projeto é armazenado.
 - _Commit:_ Confirmação de alterações com mensagem explicativa.
@@ -14,7 +14,7 @@ O Git é um sistema de controle de versão distribuído amplamente utilizado par
 - _Push:_ Envia alterações locais para o repositório remoto.
 - _Pull:_ Obtém e mescla alterações do repositório remoto.
 
-## **Principais Comandos**
+### **Principais Comandos**
 
 - **git init**: Inicializa um repositório Git em um diretório.
 - **git add <arquivo>**: Adiciona um arquivo ao área de preparação (staging area) para o próximo commit.
@@ -28,6 +28,6 @@ O Git é um sistema de controle de versão distribuído amplamente utilizado par
 - **git push**: Envia as alterações locais para um repositório remoto.
 - **git pull** Obtém as alterações de um repositório remoto e mescla com o repositório local.
 
-## **Conclusão**
+### **Referências**
 
-O Git é essencial para o controle e colaboração de código, exigindo compreensão dos conceitos básicos e comandos principais.
+<img src="[caminho/para/sua/imagem.jpg](https://media.geeksforgeeks.org/wp-content/uploads/20220915184822/GitInit2.jpg)" width="300">
